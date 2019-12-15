@@ -1,0 +1,19 @@
+{
+	"editor.wordWrap": "on",
+	// "workbench.statusBar.visible": false, // нижняя синя полоска
+	// "window.menuBarVisibility": "toggle",
+	"editor.glyphMargin": false,
+	"editor.minimap.enabled": false,
+	"files.defaultLanguage": "html",
+	"editor.fontSize": 14,
+	"editor.insertSpaces": false,
+	"editor.tabSize": 2,
+	"editor.renderWhitespace": "boundary",
+	"terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+	"workbench.colorTheme": "Material Theme Darker High Contrast",
+	"workbench.iconTheme": "vscode-icons",
+	"git.autofetch": true,
+	"explorer.confirmDelete": false,
+	"files.autoSave": "afterDelay",
+	"editor.formatOnSave": true,
+}
