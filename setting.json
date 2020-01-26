@@ -1,13 +1,16 @@
 {
 	"editor.wordWrap": "on",
-	// "workbench.statusBar.visible": false, // нижняя  полоска
-	// "window.menuBarVisibility": "toggle", // меню сверху
+	// "workbench.statusBar.visible": false, // нижняя синя полоска
+	// "window.menuBarVisibility": "toggle",
 	"editor.glyphMargin": false,
 	"editor.minimap.enabled": false,
 	"files.defaultLanguage": "html",
 	"editor.fontSize": 14,
 	"editor.insertSpaces": false,
 	"editor.tabSize": 2,
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
+	},
 	"editor.renderWhitespace": "boundary",
 	"terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
 	"workbench.colorTheme": "Material Theme Darker High Contrast",
@@ -15,5 +18,12 @@
 	"git.autofetch": true,
 	"explorer.confirmDelete": false,
 	"files.autoSave": "afterDelay",
+	"workbench.startupEditor": "newUntitledFile",
+	"explorer.confirmDragAndDrop": false,
+	"prettier.arrowParens": "always",
+	"prettier.proseWrap": "always",
+	"prettier.trailingComma": "all",
+	"prettier.printWidth": 100,
 	"editor.formatOnSave": true,
+	"terminal.integrated.rendererType": "dom"
 }
