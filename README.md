@@ -1,4 +1,4 @@
-**Мои плагины для VSCode v.1**
+**Мои плагины для VSCode v.2**
 
 
 **vscode-icons** - https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
